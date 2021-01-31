@@ -1,0 +1,13 @@
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.exe
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.deps.json
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.runtimeconfig.json
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.dll
+C:\Users\DELL\source\repos\Airline Reservation\bin\Debug\netcoreapp3.1\Airline Reservation.pdb
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.csprojAssemblyReference.cache
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.dll
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.pdb
+C:\Users\DELL\source\repos\Airline Reservation\obj\Debug\netcoreapp3.1\Airline Reservation.genruntimeconfig.cache
